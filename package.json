@@ -20,5 +20,8 @@
     "mocha": "^2.2.5",
     "rx": "^2.5.2",
     "should": "^6.0.1"
+  },
+  "devDependencies": {
+    "supertest": "^1.0.1"
   }
 }
