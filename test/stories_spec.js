@@ -1,7 +1,8 @@
 var should = require("should")
 var request = require('supertest')
 
-var url = "http://localhost:3000"
+// var url = "http://localhost:3000"
+var url = 'http://corpsebook-server.herokuapp.com/'
 var request = request(url);
 
 
